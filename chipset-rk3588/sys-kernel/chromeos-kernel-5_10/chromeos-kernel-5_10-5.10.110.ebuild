@@ -11,11 +11,11 @@ CROS_WORKON_COMMIT="1031c8588677220fbd1391be7f093892e902015d"
 CROS_WORKON_PROJECT="rk-kernel"
 # clone the kernel resource to ~/trunk/src/third_party/kernel/v5.10-rockchip to speed up the compiling.
 CROS_WORKON_LOCALNAME="kernel/v5.10-rockchip"
-CROS_WORKON_EGIT_BRANCH="rk3588_v1.0.3_20220920"
+CROS_WORKON_EGIT_BRANCH="rk3588_v1.0.2_20220820"
 CROS_WORKON_INCREMENTAL_BUILD="1"
 CROS_WORKON_MANUAL_UPREV=1
 #ECLASS_DEBUG_OUTPUT="on"
-EGIT_MASTER="rk3588_v1.0.3_20220920"
+EGIT_MASTER="rk3588_v1.0.2_20220820"
 
 # This must be inherited *after* EGIT/CROS_WORKON variables defined
 inherit cros-workon cros-kernel2
