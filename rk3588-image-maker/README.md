@@ -16,7 +16,7 @@
   sudo ./rk3588-mkupdate.sh
 ```
 ```
-# map file please link and file name Error:<AddFile> open file failed,err=2!
+# if show Error:<AddFile> open file failed,err=2! please check map file link and file name
 ```
 4. Get you update.img at this directory. (not Image/update.img)
 
