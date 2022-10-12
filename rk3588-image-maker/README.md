@@ -16,6 +16,8 @@
   sudo ./rk3588-mkupdate.sh
 ```
 
+# Error:<AddFile> open file failed,err=2!   # map file please link and file name
+
 4. Get you update.img at this directory. (not Image/update.img)
 
 5. Flash update.img by [upgrade tool](./Linux_Upgrade_Tool)
